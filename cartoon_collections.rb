@@ -13,6 +13,7 @@ def summon_captain_planet(captains)# code an argument here
  i=0 
  while i<captains.length
       puts"#{captains[i].capitalize}!"
+      i+=1
  end
 end
 
