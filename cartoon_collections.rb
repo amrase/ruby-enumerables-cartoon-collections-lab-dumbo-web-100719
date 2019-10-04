@@ -10,9 +10,10 @@ end
 
 def summon_captain_planet(captains)# code an argument here
   # Your code here
+  new_array=[]
  i=0 
  while i<captains.length
-      puts"#{captains[i].capitalize}!"
+      new_array << captains[i].capitalize
       i+=1
  end
 end
