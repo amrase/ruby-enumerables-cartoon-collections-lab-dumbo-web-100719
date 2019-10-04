@@ -38,6 +38,6 @@ def find_the_cheese(array)# code an argument here
     return  array[i]
   else
     return NIL
-    i+=1
-  }
+    i +=1 
+  
 end
