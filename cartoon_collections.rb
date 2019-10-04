@@ -1,10 +1,11 @@
 def roll_call_dwarves(dwarves)# code an argument here
   # Your code here
   new_dwarves=[]
-   dwarves.each_with_index { |item,index| 
-    index = dwarves[item]
-   }
-  dwarves
+  i=0 
+  while i<dwarves.length 
+  
+  end
+  
 end
 
 def summon_captain_planet# code an argument here
