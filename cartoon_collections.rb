@@ -22,7 +22,7 @@ end
 def long_planeteer_calls(planets) #code an argument here
   # Your code here
   i=0 
-  if array.any? { |i| i>4}
+  if array.any? { |i| i.length>4}
     return TRUE
   else
     return false 
