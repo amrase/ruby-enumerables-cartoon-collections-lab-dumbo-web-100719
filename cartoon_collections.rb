@@ -22,7 +22,7 @@ end
 def long_planeteer_calls(planets) #code an argument here
   # Your code here
   i=0 
-  while i < planets.length 
+  if i 
 end
 
 def find_the_cheese# code an argument here
