@@ -16,6 +16,7 @@ def summon_captain_planet(captains)# code an argument here
       new_array << captains[i].capitalize + "!"
       i+=1
  end
+ new_array
 end
 
 def long_planeteer_calls# code an argument here
