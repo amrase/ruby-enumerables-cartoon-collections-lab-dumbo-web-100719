@@ -26,6 +26,7 @@ def long_planeteer_calls(planets) #code an argument here
     return TRUE
   else
     return false 
+    i+=1
   end
 end
 
